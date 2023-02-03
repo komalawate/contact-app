@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "2877c6f0-5bd6-4e03-a1fc-87dc1a1674a2",
+      "name": "newcontact",
+      "email": "new@gmail.com"
+    },
+    {
+      "id": "1fc4bbed-355a-4eb7-b46f-2acfd3a91055",
+      "name": "abc",
+      "email": "abc@gmail.com"
+    },
+    {
+      "id": "d8ec81c3-7ba6-414d-bbfc-c0e4e1b9f79c",
+      "name": "komal",
+      "email": "awate@gmail.com"
+    }
+  ]
+}
